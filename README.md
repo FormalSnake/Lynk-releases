@@ -1,6 +1,8 @@
 # Lynk Browser Releases
 
-This repository hosts official releases for [Lynk Browser](https://github.com/formalsnake/lynk-browser).
+This repository hosts official releases for Lynk Browser.
+
+> **Note:** Lynk Browser is closed source software. This repository only contains release binaries and issue tracking.
 
 ## Download
 
@@ -20,7 +22,9 @@ Lynk Browser automatically checks for updates from this repository. When a new v
 
 All macOS releases are signed and notarized by Apple.
 
-## Links
+## Community & Support
 
-- [Main Repository](https://github.com/formalsnake/lynk-browser)
-- [Report Issues](https://github.com/formalsnake/lynk-browser/issues)
+- [Discord Server](https://discord.gg/nwRrjPSaTM) - Questions, help, and discussion
+- [Report a Bug](https://github.com/formalsnake/Lynk-releases/issues/new?template=bug_report.yml)
+- [Request a Feature](https://github.com/formalsnake/Lynk-releases/issues/new?template=feature_request.yml)
+- [Security Policy](SECURITY.md)
